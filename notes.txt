@@ -1,8 +1,3 @@
-echo dune saffron harbor frost
-drift pine garnet nimbus saffron quiet zephyr juniper pine quartz signal cedar
-nimbus umber marble garnet meadow fable river quiet cloud juniper quiet sable
-mosaic orbit ripple whisper timber
-dune tide nimbus echo juniper
-quartz cloud sable glacier olive
-thistle ivory prairie meadow umber timber umber cedar saffron amber juniper
-fern fable thistle olive sable
+thistle cobalt ember meadow copper garnet
+willow garnet velvet quartz cloud mosaic
+signal willow quartz echo quartz
