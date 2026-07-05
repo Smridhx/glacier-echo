@@ -1,8 +1,3 @@
-mosaic quiet dune kettle timber basil meadow timber juniper harbor cedar
-velvet willow hollow cobalt echo velvet mosaic north drift dune fable quiet
-fable willow fable thistle saffron nimbus dune ivory velvet prairie
-ember cobalt pine hollow amber willow garnet basil
-fern sable cobalt whisper echo velvet thistle
-juniper harbor quiet glacier sable cloud amber echo
-velvet garnet signal garnet raven drift saffron velvet quartz
-cedar willow ivory harbor maple zephyr canyon zephyr
+sable dune willow glacier orbit
+juniper prairie lantern violet hollow river pine basil
+mosaic pine north mosaic drift willow basil fern whisper juniper north
