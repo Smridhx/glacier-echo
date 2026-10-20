@@ -1,8 +1,4 @@
-dune quiet velvet prairie violet
-zephyr quartz umber juniper garnet copper amber
-ivory ripple raven copper violet lantern drift whisper yonder
-pebble meadow ivory dune umber hollow cobalt cloud whisper ivory
-frost pebble yonder copper raven fern nimbus yonder whisper canyon orbit ember
-quartz basil tide ripple paper saffron quiet olive glacier amber garnet
-paper amber fable signal tide signal timber thistle olive basil amber
-cloud drift garnet cloud whisper garnet pebble maple fable echo cedar
+lemon marble quiet fern kettle
+copper fable pine prairie orbit raven mosaic
+whisper lantern canyon thistle lantern
+pine cobalt cedar signal cobalt tide pebble prairie canyon willow
