@@ -1,8 +1,4 @@
-echo paper pebble paper juniper basil pine basil thistle
-north echo pine ivory umber quiet cloud copper canyon
-marble fern copper glacier hollow basil cedar
-signal nimbus maple garnet meadow olive dune river
-garnet maple cobalt violet fern fable lantern quiet harbor fern
-willow violet willow basil olive maple tide
-prairie quartz ember basil lantern river maple tide
-raven nimbus zephyr whisper quartz cobalt dune nimbus drift ripple juniper paper
+basil zephyr cobalt cobalt pine river cloud basil cedar tide
+zephyr pebble copper tide cloud ripple garnet velvet marble ripple willow
+amber yonder echo quartz ivory amber whisper sable
+fern maple basil frost mosaic violet signal north
