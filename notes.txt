@@ -1,8 +1,4 @@
-dune garnet cobalt cobalt basil glacier olive orbit
-hollow nimbus lantern river thistle
-hollow lemon tide timber dune copper
-marble cloud raven orbit north cobalt
-zephyr ember north hollow saffron basil marble meadow
-hollow harbor river river harbor ripple garnet prairie ripple umber timber raven
-velvet ember quiet north quartz marble marble hollow
-copper pebble hollow harbor pebble north cloud fable
+sable drift signal juniper violet
+quartz lantern cloud olive raven lantern violet raven
+mosaic tide fable echo cobalt thistle glacier
+velvet raven tide ripple whisper basil canyon canyon fable mosaic
